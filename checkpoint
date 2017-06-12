@@ -1,0 +1,2 @@
+model_checkpoint_path: "epigenome_models.ckpt"
+all_model_checkpoint_paths: "epigenome_models.ckpt"
